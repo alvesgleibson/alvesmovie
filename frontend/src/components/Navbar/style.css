@@ -1,0 +1,32 @@
+header{
+    background-color: var(--color-primary);
+    height: 60px;
+    display: flex;
+    align-items: center;
+   
+    
+}
+
+.am-nav-conteiner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #fff;
+}
+
+.am-nav-conteiner h1{
+margin: 0;
+font-weight: 700;
+font-size: 24px;
+}
+
+.am-contact-container{
+    display: flex;
+    align-items: center;
+   
+}
+
+.am-contact-link{
+    margin: 0 0 0 10px;
+    font-size: 12px;
+}
