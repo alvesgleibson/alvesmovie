@@ -7,6 +7,10 @@ header{
     
 }
 
+.col{
+    padding-bottom: 20px;
+}
+
 .am-nav-conteiner{
     display: flex;
     justify-content: space-between;
